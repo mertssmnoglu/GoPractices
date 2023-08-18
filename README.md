@@ -7,6 +7,7 @@ I'm learning golang from scratch and this repo includes my personal golang pract
 ```shell
 src/: "Main source"
 >apps/: "Tutorials and side projects"
+>examples: "Basic examples"
 ```
 
 ## License
